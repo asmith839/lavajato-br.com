@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "LavaJato do Pedro",
+    "slug": "lavajato-pedro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/tabela_servicos_lavajato.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/tabela_servicos_lavajato.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2b5876"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/tabela_servicos_lavajato.png",
+        "backgroundColor": "#2b5876"
+      }
+    }
+  }
+}
